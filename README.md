@@ -4,7 +4,7 @@ Le groupe était constitué de :
 - BARBIER Lucas
 - DEGRANDE Samuel
 
-Voici les US que l'on a su noté :
+Voici les US que l'on a su noter :
 
     En tant qu'utilisateur, je souhaite pouvoir appliquer la TVA a un élément de panier
 
